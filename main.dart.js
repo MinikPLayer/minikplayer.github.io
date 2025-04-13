@@ -42896,7 +42896,7 @@ j.push(A.bZ(s,n,n,n,n,r==null?n:r.anu(B.bg),n,n))}if(o.a.e)j.push(A.dY(o.d?A.b([
 s=A.bZ("AI Summary of reviews:",n,n,n,n,A.U(a).p1.f,n,n)
 r=new A.Vj()
 r.N0(o.amL(o.a.c))
-r=A.eX(A.bZ(B.JA[r.kB(10)],n,n,n,!0,n,n,n),n,400)
+r=A.eX(A.bZ(B.JA[r.kB(10)],n,n,n,!0,n,n,n),n,375)
 q=A.bZ("People who reached this location.",n,n,n,n,A.U(a).p1.f,n,n)
 p=n
 j.push(A.mv(A.dY(A.b([new A.aY(B.aD,s,n),r,new A.aY(B.aD,q,n),A.eX(new A.Ab(new A.ai6(new A.aqi(a),n,!0,!0,!0,n),n,B.aR,!1,n,n,p,!1,n,n,B.a8,B.yk,n,B.M,B.ay,n),300,400)],k),B.I,B.bI,B.T)))
